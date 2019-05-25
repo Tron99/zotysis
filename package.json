@@ -1,0 +1,19 @@
+{
+  "name": "zotysis",
+  "version": "1.0.0",
+  "description": "official business wbsite for zotysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tron99/zotysis.git"
+  },
+  "author": "Thulani Zon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tron99/zotysis/issues"
+  },
+  "homepage": "https://github.com/Tron99/zotysis#readme"
+}
